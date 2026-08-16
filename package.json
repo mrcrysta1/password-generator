@@ -1,0 +1,29 @@
+{
+    "name":  "password-generator",
+    "version":  "1.0.0",
+    "description":  "A password generator web app with strength meter",
+    "main":  "src/generator.js",
+    "directories":  {
+                        "test":  "test"
+                    },
+    "scripts":  {
+                    "test":  "jest"
+                },
+    "repository":  {
+                       "type":  "git",
+                       "url":  "git+https://github.com/mrcrysta1/password-generator.git"
+                   },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "MIT",
+    "type":  "commonjs",
+    "bugs":  {
+                 "url":  "https://github.com/mrcrysta1/password-generator/issues"
+             },
+    "homepage":  "https://github.com/mrcrysta1/password-generator#readme",
+    "devDependencies":  {
+                            "jest":  "^30.4.2"
+                        }
+}
